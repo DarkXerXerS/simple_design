@@ -1,7 +1,20 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DarkXerXerS/simple_design.git
-git push -u origin main
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body {
+    font-family: 'Poppins', sans-serif;
+ }
 
+ body {
+    display: flex;
+ }
+
+ /* header {
+    display: flex;
+ }
+
+  nav {
+    display: flex;
+  } */
